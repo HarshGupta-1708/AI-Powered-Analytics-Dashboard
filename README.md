@@ -42,11 +42,6 @@ A modern, responsive analytics dashboard built with Next.js, TypeScript, and Tai
 - **Theming**: [next-themes](https://github.com/pacocoursey/next-themes)
 - **Build Tool**: [Turbopack](https://turbo.build/pack)
 
-## 📱 Demo
-
-**🔗 Live Demo**: [Add your demo link here]
-
-*Note: Replace the placeholder above with your actual deployed demo URL*
 
 ## 🚀 Quick Start
 
