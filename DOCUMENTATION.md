@@ -200,29 +200,6 @@ import { ThemeProvider } from 'next-themes'
 
 ---
 
-## 🚀 Deployment
-
-### Build Process
-```bash
-npm install
-npm run build
-npm start
-```
-
-### Environment Variables
-```env
-NEXT_PUBLIC_API_URL=https://api.example.com
-NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX
-```
-
-### Deployment Platforms
-- **Vercel**: Recommended for Next.js
-- **Netlify**: Good Next.js support
-- **AWS Amplify**: Enterprise-grade
-- **Docker**: Containerized deployment
-
----
-
 ## 🔒 Security Considerations
 
 ### Data Protection
