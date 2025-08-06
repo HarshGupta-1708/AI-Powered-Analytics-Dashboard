@@ -2,7 +2,7 @@
 
 A modern, responsive analytics dashboard built with Next.js, TypeScript, and Tailwind CSS. This dashboard provides comprehensive data visualization with interactive charts, real-time metrics, and a clean, professional interface.
 
-![Dashboard Preview]([https://via.placeholder.com/800x400/6366f1/ffffff?text=AI+Analytics+Dashboard](https://ai-powered-analytics-dashboard-kappa.vercel.app/))
+![Dashboard Preview](https://ai-powered-analytics-dashboard-kappa.vercel.app/)
 
 ## ✨ Features
 
